@@ -47,4 +47,6 @@
    
   # * That's it and you'll find all details in project files and code. 
    
+   [All steps and details](https://github.com/BahaaIbrahim3024/Spam-Filter/blob/main/report.pdf)
+
    
